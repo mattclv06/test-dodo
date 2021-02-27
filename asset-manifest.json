@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/test-dodo/static/css/main.dc501af7.chunk.css",
+    "main.js": "/test-dodo/static/js/main.4fda1a46.chunk.js",
+    "main.js.map": "/test-dodo/static/js/main.4fda1a46.chunk.js.map",
+    "runtime-main.js": "/test-dodo/static/js/runtime-main.f8dad2ab.js",
+    "runtime-main.js.map": "/test-dodo/static/js/runtime-main.f8dad2ab.js.map",
+    "static/js/2.4a7575a9.chunk.js": "/test-dodo/static/js/2.4a7575a9.chunk.js",
+    "static/js/2.4a7575a9.chunk.js.map": "/test-dodo/static/js/2.4a7575a9.chunk.js.map",
+    "index.html": "/test-dodo/index.html",
+    "static/css/main.dc501af7.chunk.css.map": "/test-dodo/static/css/main.dc501af7.chunk.css.map",
+    "static/js/2.4a7575a9.chunk.js.LICENSE.txt": "/test-dodo/static/js/2.4a7575a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8dad2ab.js",
+    "static/js/2.4a7575a9.chunk.js",
+    "static/css/main.dc501af7.chunk.css",
+    "static/js/main.4fda1a46.chunk.js"
+  ]
+}
